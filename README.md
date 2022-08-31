@@ -1,3 +1,3 @@
 # Adding items
 
-![adding items](/src/assets/bg1.png?raw=true "adding items")
+![Add Items](/src/assets/bg-1.png?raw=true "add item")
